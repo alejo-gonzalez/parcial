@@ -100,6 +100,33 @@ if (cadena.charAt(I)=='b'||cadena.charAt(I)=='B')
  
         int suma=a+e+i+o+u;
         int consonantes=b+c+f+g+h+j+k+l+m+n+ñ+p+q+r+s+t+v+w+x+y+z;
+System.out.println("a : "+a);
+        System.out.println("b : "+b);
+        System.out.println("c : "+c);
+        System.out.println("d : "+d);
+        System.out.println("e : "+e);
+        System.out.println("f : "+f);
+        System.out.println("g : "+g);
+        System.out.println("h : "+h);
+        System.out.println("i : "+i);
+        System.out.println("j : "+j);
+        System.out.println("k : "+k);
+        System.out.println("l : "+l);
+        System.out.println("m : "+m);
+        System.out.println("n : "+n);
+        System.out.println("ñ : "+ñ);
+        System.out.println("o : "+o);
+        System.out.println("p : "+p);
+        System.out.println("q : "+q);
+        System.out.println("r : "+r);
+        System.out.println("s : "+s);
+        System.out.println("t : "+t);
+        System.out.println("u : "+u);
+        System.out.println("v : "+v);
+        System.out.println("w : "+w);
+        System.out.println("x : "+x);
+        System.out.println("y : "+y);
+        System.out.println("z : "+z);
         System.out.println("vocales : "+suma);
         System.out.println("consonantes :"+consonantes);
     }
